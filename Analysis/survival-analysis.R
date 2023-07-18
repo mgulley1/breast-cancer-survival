@@ -9,7 +9,7 @@ library(ggsurvfit)
 # loads the ggsurvfit package for plotting K-M survival curves
 library(gtsummary)
 # loads the gtsummary package for creating nice tables for
-# regression model output
+# regression model outputs
 
 #### data ####
 
